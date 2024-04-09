@@ -2,7 +2,7 @@
 
 This is a simple XML translator written in Python that can help you translate text within XML files from one language to another.
 
-The initial intent of this project was to localize the files for "Baldur's Gate 3," but it may not fully support other XML files. Future maintenance will be considered based on issues, and contributions via Pull Requests to make this a more complete XML translation tool are welcome.
+The initial intent of this project was to localize the files for "Baldur's Gate 3"'s mods, but it may not fully support other XML files. Future maintenance will be considered based on issues, and contributions via Pull Requests to make this a more complete XML translation tool are welcome.
 
 ## Features
 
